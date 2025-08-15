@@ -29,8 +29,8 @@ Resume-matching_dashboard/
 ├── sample_resume.pdf    # Example resume file
 └── README.md            # Project documentation
 ```
+## 🛠 Tech Stack
 ```
-🛠 Tech Stack
 ->Python — Core logic
 ->Streamlit — Web application UI
 ->Plotly — Interactive charts
