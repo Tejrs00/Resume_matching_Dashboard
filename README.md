@@ -29,3 +29,12 @@ Resume-matching_dashboard/
 ├── sample_resume.pdf    # Example resume file
 └── README.md            # Project documentation
 ```
+```
+🛠 Tech Stack
+->Python — Core logic
+->Streamlit — Web application UI
+->Plotly — Interactive charts
+->Scikit-learn — TF-IDF similarity computation
+->ReportLab — PDF generation
+->Kaleido — Chart-to-image export for PDF
+```
