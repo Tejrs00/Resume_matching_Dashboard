@@ -41,7 +41,7 @@ Resume-matching_dashboard/
 ```
 ## 💻 Installation
 ```
-git clone [https://github.com/YOUR/Resume-Scoring-System](https://github..git
+git clone https://github.com/Tejrs00/Resume_matching_Dashboard.git
 cd Resume-matching_dashboard
 2️⃣ Install Dependencies
 pip install -r requirements.txt
