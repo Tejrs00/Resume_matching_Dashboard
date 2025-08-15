@@ -23,20 +23,22 @@ Includes **visually styled PDF export** for sharing reports.
 ## 📂 Project Structure
 📊 How It Works
 
-Upload resumes and a job description.
+📂 app_dark_teal/
+│
+├── 📄 app.py                # Main Streamlit application
+├── 📄 requirements.txt      # Python dependencies
+│
+└── 📂 __pycache__/          # (Optional, auto-created by Python)
 
-The system extracts keywords and calculates:
+Details
 
-Weighted Keyword Coverage
+app.py
 
-TF-IDF Content Similarity
+Contains:
 
-Generates:
-
-Overall Match Score
-
-Skills Gap Analysis
-
-Top Candidates
-
-Export the results as a visually styled PDF report.
+  ->Resume & JD upload handling
+  ->AI-powered keyword extraction & scoring
+  ->KPI cards with teal accents (dark mode)
+  ->Gauge chart, Top Skills, Top Candidates table
+  ->PDF export with styled teal headers
+  ->Streamlit UI layout (main + detailed view)
