@@ -22,20 +22,13 @@ Includes **visually styled PDF export** for sharing reports.
 
 ## 📂 Project Structure
 📊 How It Works
-
-📂 app_dark_teal/
+📂 Resume_scoring/
 │
 ├── 📄 app.py                # Main Streamlit application
 ├── 📄 requirements.txt      # Python dependencies
-│
-└── 📂 __pycache__/          # (Optional, auto-created by Python)
-
-Details
-
+Details:
 app.py
-
 Contains:
-
   ->Resume & JD upload handling
   ->AI-powered keyword extraction & scoring
   ->KPI cards with teal accents (dark mode)
