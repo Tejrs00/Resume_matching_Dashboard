@@ -1,0 +1,33 @@
+Job Description
+
+For more than 80 years, Kaplan has been a trailblazer in education and professional advancement. We are a global company at the intersection of education and technology, focused on collaboration, innovation, and creativity to deliver a best in class educational experience and make Kaplan a great place to work.
+
+Our offices in India opened in Bengaluru in 2018. Since then, our team has fueled growth and innovation across the organization, impacting students worldwide. We are eager to grow and expand with skilled professionals like you who use their talent to build solutions, enable effective learning, and improve students’ lives.
+
+The future of education is here and we are eager to work alongside those who want to make a positive impact and inspire change in the world around them.
+
+As an Associate Software Engineer will be responsible for managing all phases of the software development lifecycle, including programming, testing, and documentation. Ensure high-quality software delivery to end-users while improving process documentation and actively participating in agile methodologies and scrum ceremonies.
+
+Primary Responsibilities
+
+Understanding all the phases of the software development lifecycle.
+Programming, testing and documenting applications.
+Executing and troubleshooting existing code to identify and rectify errors.
+Delivering high-quality software products to end-users and ensuring that they meet the required standards.
+Writing test cases that cover various aspects of the software, including functional, integration, performance, and usability testing.
+Improve documentation of processes and systems.
+Familiarizing oneself with agile methodologies and actively engaging in all scrum ceremonies.
+30-day notification period preferred
+
+Minimum Qualifications
+
+BS/MS in a relevant field (Computer Science, Engineering)
+Understands core software development concepts such as data structures, object oriented programming, n-tier architectures, unit testing.
+Writes unit tests and is able to debug code.
+Follows Agile workflow and uses team development tools (e.g., issue tracking, source control) effectively.
+Understands the importance of Atom architecture principles related to scalability, flexibility, stability and simplicity.
+
+Preferred Qualifications
+
+Knowledge on Front End and/or BackEnd technologies such as HTML, CSS, Angular, React, NodeJS, .Net, Java, Salesforce Apex, Visualforce, Lightening, JavaScript, Shell, Python.
+Basic knowledge of fundamentals on software development: modularization, object oriented design.
