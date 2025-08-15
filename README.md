@@ -21,17 +21,9 @@ Includes **visually styled PDF export** for sharing reports.
 ---
 
 ## 📂 Project Structure
-📊 How It Works
-📂 Resume_scoring/
+Resume-Scoring-System/
 │
-├── 📄 app.py                # Main Streamlit application
-├── 📄 requirements.txt      # Python dependencies
-Details:
-app.py
-Contains:
-  ->Resume & JD upload handling
-  ->AI-powered keyword extraction & scoring
-  ->KPI cards with teal accents (dark mode)
-  ->Gauge chart, Top Skills, Top Candidates table
-  ->PDF export with styled teal headers
-  ->Streamlit UI layout (main + detailed view)
+├── app.py # Main Streamlit application
+├── requirements.txt # Required Python dependencies
+├── sample_resume.pdf # Example resume file
+└── README.md # Project documentation
