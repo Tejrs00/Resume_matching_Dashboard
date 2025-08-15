@@ -21,9 +21,11 @@ Includes **visually styled PDF export** for sharing reports.
 ---
 
 ## 📂 Project Structure
+```
 Resume-matching_dashboard/
 │
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Required Python dependencies
 ├── sample_resume.pdf    # Example resume file
 └── README.md            # Project documentation
+```
