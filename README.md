@@ -1,4 +1,4 @@
-# Resume_matching_Dashboard
+# 📄Resume_matching_Dashboard
 
 An **AI-powered interactive dashboard** that matches resumes to a given job description and provides detailed skill gap analysis.  
 Styled with a **charcoal gray dark mode** and **teal accents** for a modern, tech-oriented look.  
