@@ -11,7 +11,7 @@ Includes **visually styled PDF export** for sharing reports.
 - **Upload multiple resumes** (`.pdf`, `.docx`, `.txt`) and a job description.
 - **AI-powered scoring** using weighted keyword coverage & content similarity.
 - **KPI Cards** with icons and highlights.
-- **Interactive Charts**:
+- **Interactive Charts**
   - Gauge chart for overall match percentage.
   - Skills present vs missing comparison.
   - Top candidates list with missing skills.
