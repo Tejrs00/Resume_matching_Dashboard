@@ -49,11 +49,11 @@ pip install -r requirements.txt
 3️⃣ Run the Application
 streamlit run app.py
 ```
-##📜 License
+## 📜 License
 ```
 This project is licensed under the MIT License — feel free to use and modify.
 ```
-##📧 Contact
+## 📧 Contact
 ```
 Your Name — tejasshet0@gmail.com
 GitHub: Tejrs00
